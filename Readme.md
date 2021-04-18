@@ -1,6 +1,8 @@
-# Jamstack Ecommerce
+# bootcamp2020c42
 
-## Intoduction
+## Jamstack Ecommerce
+
+### Intoduction
 
 - [Ecommerce](https://www.shopify.com/encyclopedia/what-is-ecommerce)
   - What is Ecommerce?
@@ -52,7 +54,7 @@
     - Vue Storefront
   - How to pick the best eCommerce solution for you?
 
-## Local Ecommerce
+### Local Ecommerce
 
 - [What do we know about Pakistan's ecommerce industry?](https://www.dawn.com/news/1549691)
   - What are customers buying?
@@ -73,7 +75,7 @@
 
 - [First e-commerce index shows increase in digital payments and growing demand for online shopping](https://nation.com.pk/17-Apr-2020/first-e-commerce-index-shows-increase-in-digital-payments-and-growing-demand-for-online-shopping)
 
-## Payment Gateways
+### Payment Gateways
 
 - [The 10 Most Popular Online Payment Gateways for Your Website, Compared](https://www.dreamhost.com/blog/10-online-payment-gateways-compared/)
 
@@ -104,7 +106,7 @@
   - The Best Way to Receive Payments in Any Country Using 2Checkout, Payoneer and InvoiceNinja
   - Accept Credit Cards: what are we trying to achieve here?
 
-## Local Payments Methods
+### Local Payments Methods
 
 - [Why local payment methods are essential for your e-commerce business](https://www.payvision.com/payment-insights/e-commerce/why-local-payment-methods-are-essential-for-ecommerce-business/)
 
@@ -161,7 +163,7 @@
   - [JazzCash Developer Certer](https://developer.jazzcash.com.pk/)
   - [JazzCash Payment Gateway](https://sandbox.jazzcash.com.pk/SandboxDocumentation/Content/documentation/Payment%20Gateway%20Integration%20Guide%20for%20Merchants-v4.2.pdf)
 
-## Ecommerce Solutions
+### Ecommerce Solutions
 
 - [Headless Commerce: The Definitive Guide - 2020 Edition](https://www.coredna.com/blogs/headless-commerce)
 
@@ -190,11 +192,11 @@
 
 - [Shopify Plus: Headless Commerce](https://www.shopify.com/plus/solutions/headless-commerce)
 
-## Delivery Services
+### Delivery Services
 
 - [List of Delivery Services in Pakistan](https://clarity.pk/delivery-services/list-of-delivery-services-in-pakistan/)
 
-## Ecommerce Investments in Pakistan and Developing Countries
+### Ecommerce Investments in Pakistan and Developing Countries
 
 - [Retailo raises USD 2.3 million pre-seed for its B2B ecommerce marketplace in Saudi & Pakistan](https://kr-asia.com/retailo-raises-usd-2-3-million-pre-seed-for-its-b2b-ecommerce-marketplace-in-saudi-pakistan)
 
@@ -216,7 +218,7 @@
 
 - [Sequoia India, Flourish Ventures lead $22.5m round in Bangladeshi B2B commerce startup](https://www.techinasia.com/sequoia-india-flourish-ventures-invest-bangladesh-b2b-commerce-startup-shopup)
 
-## UI Design
+### UI Design
 
 - [Best Practices For E-Commerce UI Design](https://www.smashingmagazine.com/2020/11/best-practices-ecommerce-ui-design/)
 
