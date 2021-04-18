@@ -234,3 +234,7 @@
   - Make Product Variants As Easy To Select As Possible
     - A note about out-of-stock variants
   - Wrapping Up
+
+### Links
+
+- [JAMstack Ecommerce Learning Project Repo (Ecommerce Projects 00 - 06)](https://github.com/panacloud-modern-global-apps/jamstack-ecommerce)
